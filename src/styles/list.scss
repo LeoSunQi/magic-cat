@@ -1,0 +1,17 @@
+.basice-list {
+  width: inherit;
+  box-sizing: border-box;
+  padding: 20px;
+
+  .bl-ul {
+    .bl-ul_li {
+      padding: 10px 0;
+      line-height: 1.7;
+
+      .bl-ul_li-flex {
+        display: flex;
+        justify-content: space-between;
+      }
+    }
+  }
+}
